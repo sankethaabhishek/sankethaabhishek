@@ -13,7 +13,7 @@ Here's a snapshot of the tools and technologies I enjoy working with and leverag
 * **Programming Languages:** Python 🐍 (NumPy, Pandas, Matplotlib, Seaborn), SQL 📊
 * **Core Data Science:** Data Analysis, Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis
 * **Machine Learning (ML):** Scikit-learn (Regression, Classification, Clustering algorithms), Feature Engineering, Model Evaluation & Selection
-* **AI Fundamentals:** Natural Language Processing (NLP) basics, Computer Vision fundamentals, Core AI concepts (as explored in "Elements of AI")
+* **AI Fundamentals:** Natural Language Processing (NLP) basics, Computer Vision fundamentals, Core AI concepts
 * **Development Tools:** Jupyter Notebooks, Git, GitHub
 
 ### 🌱 What I'm Currently Learning & Exploring
